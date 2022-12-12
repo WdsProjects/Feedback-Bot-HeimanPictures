@@ -26,8 +26,8 @@ flyctl secrets set API_HASH=""
 flyctl secrets set API_ID=""
 
 flyctl secrets set BOT_TOKEN=""
-flyctl secrets set OWNER_ID="351071405"
-flyctl secrets set AUTH_USERS="351071405"
+flyctl secrets set OWNER_ID="35445405"
+flyctl secrets set AUTH_USERS="35445405"
 
 flyctl secrets set DB_NAME=" NOME DE USUÁRIO DO MONGO DB"
 flyctl secrets set DB_URL=mongodb+srv://"
